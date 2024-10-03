@@ -6,13 +6,23 @@ React Three Fiber, and React Drei.
 Users can explore the detailed 3D models of watches with an immersive portal
 effect that allows interaction with the model, including zooming, rotating, and more.
 
+
+
+THERE ARE SOME IMAGES OF MY PROJECT WHERE YOU CAN SEE HOW IT WILL LOOK 
+
+1. https://github.com/mukesh7ed4/3Dwatch/blob/main/Screenshot%202024-10-03%20212632.png
+2. https://github.com/mukesh7ed4/3Dwatch/blob/main/Screenshot%202024-10-03%20212912.png
+3. https://github.com/mukesh7ed4/3Dwatch/blob/main/Screenshot%202024-10-03%20212933.png
+
+
 1. Project Overview
+   
 The 3D Watch Experience provides a unique way for users to interact with 3D models of watches.
  Clicking on the portal transports users inside the watch model,
  where they can explore the details by zooming in, rotating, and interacting in real-time.
  This project showcases the capabilities of React Three.js combined with React Three Fiber for rendering complex 3D graphics in the browser.
 
-2. Key Features
+3. Key Features
 
 3D Watch Models:
 Three high-quality, detailed 3D models of watches are featured.
