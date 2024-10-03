@@ -44,7 +44,7 @@ Node.js (v12 or above)
 npm or yarn package manager
 
 Step-by-Step Guide:
-Clone the repository:git clone https://github.com/yourusername/3d-watch-portal.git
+Clone the repository:git clone https://github.com/mukesh7ed4/3Dwatch.git
 
 Navigate to the project folder:
 cd 3d-watch-portal
